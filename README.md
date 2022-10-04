@@ -1,4 +1,4 @@
-# Stochastic_Singls_and_Systems_Stamopoulos_Christos
+# Stochastic_Singals_and_Systems_Stamopoulos_Christos
 
 Stochastic Signals and Systems
 
